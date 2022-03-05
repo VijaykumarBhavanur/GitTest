@@ -1,3 +1,6 @@
+# All text files
+*.txt
+
 # Compiled class file
 *.class
 
